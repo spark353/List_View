@@ -1,6 +1,8 @@
-# untitled2
+# List View
 
-A new Flutter project.
+I developed myself an application in Flutter that presents a ListView with title and description to organize information in an accessible way. The application includes a search bar to facilitate searching for specific content and a remove button to manage list items
+
+![listview](https://github.com/spark353/List_View/assets/166623238/f6428e06-b9fa-4963-8e1e-dc70c412645d)
 
 ## Getting Started
 
